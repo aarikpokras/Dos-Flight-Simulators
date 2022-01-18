@@ -1,1 +1,2 @@
-# Dos-Games
+# Dos Games
+This is a collection of DosBox games that I found.
